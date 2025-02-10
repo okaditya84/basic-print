@@ -34,6 +34,9 @@ def tan(x):
     return math.tan(x)
 
 # You can add more functions as needed
+#the sample format of the function is as follows:
+#def function_name(parameters):
+#    return operation
 
 # Example usage
 result = add(5, 3)
